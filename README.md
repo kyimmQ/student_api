@@ -37,6 +37,7 @@ Student API
 Having docker and docker-compose already install on you machine
 
 Clone the project to your machine
+
 Fill in the information for you database in the `docker-compose.yml` file: `MYSQL_ROOT_PASSWORD`, `MYSQL_USER`, `MYSQL_PASSWORD`, `DB_USER` and `DB_PASSWORD`
 
 ```bash
